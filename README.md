@@ -15,8 +15,8 @@ A simple Python quiz game where users can answer randomly shuffled questions abo
 
 ## 🚀 How to Run
 
-1. Clone the repository or download the `quiz_game.py` file.
+1. Clone the repository or download the `Quiz.py` file.
 2. Open a terminal and run the script:
 
    ```bash
-   python quiz_game.py
+   python Quiz.py
